@@ -175,6 +175,6 @@ export const resume = {
     keywords: "DevOps, AWS, Terraform, Kubernetes, CI/CD, Cloud Infrastructure, Site Reliability Engineer, SRE",
     ogImage: "/og-image.png",
   },
-} as const;
+};
 
 export type Resume = typeof resume;
